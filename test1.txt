@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sound always increases!!
+=======
+Sound always increases!!!
+>>>>>>> b5d0947c23146165df2adfbc90710dd155d609a2
